@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
+  "versionCode": 3,
+  "versionName": "1.2",
   "apkUrl": "https://raw.githubusercontent.com/viniciosrodriguesm-cloud/v10-releases/main/V10-Connect.apk",
-  "sha256": "d7a0a6636378a4a0968afae718d491af770cbe9d524603592922cd5a18788c32",
-  "notes": "Monitor de voz ao vivo, melhorias no áudio Bluetooth e atualizações dentro do aplicativo."
+  "sha256": "7130ddf65ab21a66866e78e7df70d98618a6d4f81d30063164b42fee713a0cf0",
+  "notes": "O monitor de voz agora continua funcionando com a tela apagada e recebeu melhorias para reduzir estralos no áudio."
 }
